@@ -1,0 +1,19 @@
+{
+  "name": "gittest",
+  "version": "1.0.0",
+  "description": "\"test\"",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeit-dotcom/gity.git"
+  },
+  "author": "\"chamma\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeit-dotcom/gity/issues"
+  },
+  "homepage": "https://github.com/codeit-dotcom/gity#readme"
+}
